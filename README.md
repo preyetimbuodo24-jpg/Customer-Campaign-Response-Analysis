@@ -1,5 +1,7 @@
 # Customer Campaign Response Analysis
 
+![Dashboard Showcase](dashboard.png)
+
 ## 📌 Project Background
 The goal of this project is to analyze and understand customer behavior to identify which segments are most likely to respond to marketing campaigns for a fictional retail company. By uncovering the core characteristics associated with high campaign engagement, this analysis provides data-driven strategies to maximize future campaign response rates while minimizing marketing expenses.
 
